@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/infra-voyage-436510-s4/locations/asia-east1-a/clusters/prod-cluster
+  cluster: projects/infra-voyage-436510-s4/locations/asia-east1/clusters/prod-cluster
 

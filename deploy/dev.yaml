@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/infra-voyage-436510-s4/locations/asia-east1-a/clusters/dev-cluster
+  cluster: projects/infra-voyage-436510-s4/locations/asia-east1/clusters/dev-cluster
 
