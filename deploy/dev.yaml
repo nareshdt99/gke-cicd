@@ -2,9 +2,9 @@ apiVersion: deploy.cloud.google.com/v1
 kind: Target
 metadata:
   name: dev
-  annotations: {}
   labels: {}
-description: dev
+  annotations: {}
+description: "Target for development environment"
 gke:
   cluster: projects/infra-voyage-436510-s4/locations/asia-east1/clusters/dev-cluster
-
+  location: asia-east1
